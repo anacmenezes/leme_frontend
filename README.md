@@ -1,4 +1,4 @@
-<h1>Leme - Frontend </h1>
+<h1>Leme - Frontend</h1>
 
 Este projeto é um protótipo de um site de agência de viagens desenvolvido individualmente para o bootcamp. 
 A aplicação foi desenvolvida usando HTML, CSS, JS, Bootstrap.
