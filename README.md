@@ -4,7 +4,7 @@ Este projeto é um protótipo de um site de agência de viagens desenvolvido ind
 A aplicação foi desenvolvida usando HTML, CSS, JS, Bootstrap.
 
 <h1 align="center">
-    <img src="./public/home (1).png.png" width="300"/>
+    <img src="public/contato.png" width="300"/>
     <img src="./public/home(2).png" width="300"/>
 </h1>
 
