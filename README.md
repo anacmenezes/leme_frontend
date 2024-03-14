@@ -1,6 +1,12 @@
 <h1>Leme - Frontend</h1>
 
-Este projeto é um protótipo de um site de agência de viagens desenvolvido individualmente para o bootcamp.
+Este projeto é um protótipo de um site de agência de viagens desenvolvido individualmente para o bootcamp. 
+A aplicação foi desenvolvida usando HTML, CSS, JS, Bootstrap.
+
+<h1 align="center">
+    <img src="./public/home (1).png.png" width="300"/>
+    <img src="./public/home(2).png" width="300"/>
+</h1>
 
 ## 💻 Requisitos
 
